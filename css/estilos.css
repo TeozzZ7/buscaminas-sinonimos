@@ -1,0 +1,11 @@
+body { font-family: Georgia, serif; background: #f6f3ee; color: #222; }
+main { max-width: 680px; margin: 2rem auto; padding: 0 1rem; line-height: 1.8; }
+.ayuda { color: #666; font-family: sans-serif; font-size: 0.9rem; }
+.casilla button {
+  font: inherit; background: #ffe9a8; border: 1px solid #d9b94b;
+  border-radius: 4px; padding: 0 0.3rem; cursor: pointer;
+}
+.casilla button.resuelta { background: #cfe8cf; border-color: #7bb07b; }
+.casilla select { font: inherit; }
+#btn-resultado { margin-top: 1rem; padding: 0.5rem 1rem; font-size: 1rem; cursor: pointer; }
+#resultado { font-weight: bold; font-size: 1.2rem; }

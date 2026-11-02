@@ -1,0 +1,31 @@
+{
+  "textos": [
+    {
+      "id": 1,
+      "titulo": "Una tarde en el barrio",
+      "texto": "Marta salió a la calle y vio en el cielo {1} que no supo explicar. Quiso {2} una pregunta, pero nadie parecía tener {3} para responder. Era un día {4} para caminar, así que decidió {5} un largo recorrido por el barrio.",
+      "casillas": [
+        { "id": 1, "original": "una cosa", "opciones": [
+          { "texto": "un fenómeno", "valor": 2 },
+          { "texto": "algo", "valor": 1 },
+          { "texto": "una cosa", "valor": 0 } ] },
+        { "id": 2, "original": "hacer", "opciones": [
+          { "texto": "formular", "valor": 2 },
+          { "texto": "lanzar", "valor": 1 },
+          { "texto": "hacer", "valor": 0 } ] },
+        { "id": 3, "original": "un buen motivo", "opciones": [
+          { "texto": "una razón válida", "valor": 2 },
+          { "texto": "un motivo claro", "valor": 1 },
+          { "texto": "un buen motivo", "valor": 0 } ] },
+        { "id": 4, "original": "bueno", "opciones": [
+          { "texto": "ideal", "valor": 2 },
+          { "texto": "agradable", "valor": 1 },
+          { "texto": "bueno", "valor": 0 } ] },
+        { "id": 5, "original": "hacer", "opciones": [
+          { "texto": "emprender", "valor": 2 },
+          { "texto": "realizar", "valor": 1 },
+          { "texto": "hacer", "valor": 0 } ] }
+      ]
+    }
+  ]
+}
